@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Uribe - 🇨🇱</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eduardo Uribe - 🇨🇱</h1>
 <h3 align="center">I am a Game Developer since 2010 😁</h3>
 
 - 💬 Ask me about **Unity**
