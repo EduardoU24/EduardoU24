@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eduardo Uribe - 🇨🇱</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Uribe - 🇨🇱</h1>
 <h3 align="center">I am a Game Developer since 2010 😁</h3>
 
 - 💬 Ask me about **Unity**
@@ -9,6 +9,15 @@
 <a href="https://twitter.com/eduardou24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eduardou24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eduardou24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eduardou24" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/metalkat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="metalkat" height="30" width="40" /></a>
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/EduardoU24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardoU24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardoU24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
