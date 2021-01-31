@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo Uribe</h1>
-<h3 align="center">I am a Game Developer from Chile since 2010 😁</h3>
+<h1 align="center">Hi 👋, I'm Eduardo Uribe - 🇨🇱</h1>
+<h3 align="center">I am a Game Developer since 2010 😁</h3>
 
 - 💬 Ask me about **Unity**
 
