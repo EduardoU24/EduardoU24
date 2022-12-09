@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo Uribe - 🇨🇱</h1>
 <h3 align="center">I am a Game Developer since 2010 😁</h3>
 
+
+[![Linkedin](https://img.shields.io/badge/-EduardoU24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardou24)](https://www.linkedin.com/in/eduardou24)
+[![Youtube](https://img.shields.io/badge/-@EduardoU24-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@EduardoU24)](https://www.youtube.com/@EduardoU24)
+
+
 - 💬 Ask me about **Unity**
 
 <h3 align="left">Connect with me:</h3>
