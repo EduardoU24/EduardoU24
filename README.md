@@ -11,6 +11,8 @@
 [![Twitter](https://img.shields.io/badge/-@EduardoU24-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/EduardoU24)](https://www.twitter.com/EduardoU24)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.u24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.u24@gmail.com)](mailto:eduardo.u24@gmail.com)
 
+Checkout my Resume [![My Resume CV](https://img.shields.io/badge/-My%20Resume%20CV-8e44ad?style=flat-square&logo=dungeonsanddragons&logoColor=white&link=https://github.com/EduardoU24/EduardoU24/blob/main/Eduardo%20Uribe%20Resume_compressed.pdf)](https://github.com/EduardoU24/EduardoU24/blob/main/Eduardo%20Uribe%20Resume_compressed.pdf)
+
 ---
 
 ### about.json
