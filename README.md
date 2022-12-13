@@ -94,12 +94,6 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
     Figma
   </a> 
 </cite> &nbsp;  &nbsp; 
-<cite>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img width="26px" height="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/>
-    SQL
-  </a> 
-</cite> &nbsp;  &nbsp; 
 
 <cite>
   <a href="https://tailwindcss.com/" target="_blank">
@@ -171,6 +165,12 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
     <img width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
     Python
   </a>
+</cite> &nbsp;  &nbsp; 
+<cite>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img width="26px" height="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/>
+    SQL
+  </a> 
 </cite> &nbsp;  &nbsp; 
 
 <br />
