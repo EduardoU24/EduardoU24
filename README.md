@@ -10,6 +10,7 @@
 [![Youtube](https://img.shields.io/badge/-@EduardoU24-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@EduardoU24)](https://www.youtube.com/@EduardoU24)
 [![Twitter](https://img.shields.io/badge/-@EduardoU24-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/EduardoU24)](https://www.twitter.com/EduardoU24)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.u24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.u24@gmail.com)](mailto:eduardo.u24@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hi@eduardo.cat-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.u24@gmail.com)](mailto:hi@eduardo.cat)
 
 Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style=flat-square&logo=dungeonsanddragons&logoColor=white&link=https://docs.google.com/document/d/139ZDwsaOpqCVDDUs2jRl-Vc0aXCfwtuZc7IG8tNJRQo/view)](https://docs.google.com/document/d/139ZDwsaOpqCVDDUs2jRl-Vc0aXCfwtuZc7IG8tNJRQo/view) also in [![PDF](https://img.shields.io/badge/-PDF-8e44ad?style=flat-square&logo=dungeonsanddragons&logoColor=white&link=https://github.com/EduardoU24/EduardoU24/blob/main/Eduardo%20Uribe%20-%20Game%20Developer.pdf)](https://github.com/EduardoU24/EduardoU24/blob/main/Eduardo%20Uribe%20-%20Game%20Developer.pdf)
 
