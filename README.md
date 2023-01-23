@@ -21,9 +21,10 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
  ```json
   {
     "me": "Eduardo Uribe",
-    "faking": "Software Engineer",
+    "faking-it": "Software Engineer",
     "expertise": "Memes",
     "languages": ["Spanish", "English"],
+    "able-to-move": "Absolutely, working VISA, digital nomad",
     "hobbies": [
       "Metalsmith",
       "Jewelcrafting",
