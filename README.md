@@ -91,12 +91,6 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
     Azure
   </a>
 </cite> &nbsp;  &nbsp; 
-<cite>
-  <a href="https://www.figma.com/" target="_blank">
-    <img width="26px" height="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
-    Figma
-  </a> 
-</cite> &nbsp;  &nbsp; 
 
 <cite>
   <a href="https://tailwindcss.com/" target="_blank">
@@ -187,6 +181,12 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
 <br />
 
 <cite>
+  <a href="https://www.figma.com/" target="_blank">
+    <img width="26px" height="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
+    Figma
+  </a> 
+</cite> &nbsp;  &nbsp; 
+<cite>
   <a href="https://www.docker.com/" target="_blank">
     <img width="26px" height="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker"/>
     Docker
@@ -200,6 +200,22 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
 </cite> &nbsp;  &nbsp; 
 
 <br />
+
+---
+
+<br />
+
+### Games I've worked in
+
+Myths and Legends Online             |  NBA Clash
+:-------------------------:|:-------------------------:
+[![NBA Clash](https://img.youtube.com/vi/TYNObtpEyts/0.jpg)](https://www.youtube.com/watch?v=TYNObtpEyts)  |  [![NBA Clash](https://img.youtube.com/vi/p67nFnnLJPo/0.jpg)](https://www.youtube.com/watch?v=p67nFnnLJPo)
+NFL Clash                                                                                                  |  
+[![NBA Clash](https://img.youtube.com/vi/MHvEVK8Be_c/0.jpg)](https://www.youtube.com/watch?v=MHvEVK8Be_c)  |  
+
+
+
+
 
 ---
 
