@@ -207,7 +207,7 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
 
 ### Games I've worked in
 
-Myths and Legends Online             |  NFL/NBA Clash
+[Myths and Legends Online](https://www.youtube.com/watch?v=TYNObtpEyts)             |  [NFL/NBA Clash](https://unity.com/case-study/niftygames)
 :-------------------------:|:-------------------------:
 [![NBA Clash](https://img.youtube.com/vi/TYNObtpEyts/0.jpg)](https://www.youtube.com/watch?v=TYNObtpEyts)  |  [![NFL/NBA Clash](https://github.com/EduardoU24/EduardoU24/assets/1507317/2148e6e0-60a2-4e81-930f-fe029f5167ae)](https://unity.com/case-study/niftygames)
 
