@@ -209,10 +209,7 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
 
 Myths and Legends Online             |  NBA Clash
 :-------------------------:|:-------------------------:
-[![NBA Clash](https://img.youtube.com/vi/TYNObtpEyts/0.jpg)](https://www.youtube.com/watch?v=TYNObtpEyts)  |  [![NBA Clash](https://img.youtube.com/vi/p67nFnnLJPo/0.jpg)](https://www.youtube.com/watch?v=p67nFnnLJPo)
-NFL Clash                                                                                                  |  
-[![NBA Clash](https://img.youtube.com/vi/MHvEVK8Be_c/0.jpg)](https://www.youtube.com/watch?v=MHvEVK8Be_c)  |  
-
+[![NBA Clash](https://img.youtube.com/vi/TYNObtpEyts/0.jpg)](https://www.youtube.com/watch?v=TYNObtpEyts)  |  [![NFL Clash](https://github.com/EduardoU24/EduardoU24/assets/1507317/2148e6e0-60a2-4e81-930f-fe029f5167ae)](https://unity.com/case-study/niftygames)
 
 
 
