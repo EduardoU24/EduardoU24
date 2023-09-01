@@ -207,9 +207,9 @@ Checkout my [![Resume CV](https://img.shields.io/badge/-Resume%20CV-8e44ad?style
 
 ### Games I've worked in
 
-Myths and Legends Online             |  NBA Clash
+Myths and Legends Online             |  NFL/NBA Clash
 :-------------------------:|:-------------------------:
-[![NBA Clash](https://img.youtube.com/vi/TYNObtpEyts/0.jpg)](https://www.youtube.com/watch?v=TYNObtpEyts)  |  [![NFL Clash](https://github.com/EduardoU24/EduardoU24/assets/1507317/2148e6e0-60a2-4e81-930f-fe029f5167ae)](https://unity.com/case-study/niftygames)
+[![NBA Clash](https://img.youtube.com/vi/TYNObtpEyts/0.jpg)](https://www.youtube.com/watch?v=TYNObtpEyts)  |  [![NFL/NBA Clash](https://github.com/EduardoU24/EduardoU24/assets/1507317/2148e6e0-60a2-4e81-930f-fe029f5167ae)](https://unity.com/case-study/niftygames)
 
 
 
@@ -236,7 +236,8 @@ Myths and Legends Online             |  NBA Clash
   <a href="https://www.mysql.com/" target="_blank">
     <img width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"/>
     HMTL
-  </a> 
+  </a> ![niftygames-menu-810x455@1x](https://github.com/EduardoU24/EduardoU24/assets/1507317/9c24cc0a-5067-4966-af2b-dbfab64759c2)
+
 </cite> &nbsp;  &nbsp; 
 <cite>
 <a href="https://getbootstrap.com" target="_blank"> 
@@ -302,10 +303,3 @@ Myths and Legends Online             |  NBA Clash
 <br />
 
 ---
-
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eduardou24)
-
-
-#### Not interested crypto c: 
